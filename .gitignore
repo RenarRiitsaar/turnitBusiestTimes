@@ -1,0 +1,23 @@
+# Build Folders
+bin/
+obj/
+
+# Visual Studio Specific
+.vs/
+*.user
+*.suo
+
+# NuGet Packages
+packages/
+*.nupkg
+
+# Logs
+*.log
+
+# Temporary Files
+*.tmp
+*.temp
+
+# Other
+*.tlog
+*.ide
